@@ -1,0 +1,25 @@
+ .h2 {
+		  display: inline-block;
+		  text-align: center !important;
+		  margin-top: 300px !important;
+	  }
+	  .body {
+		  background: url('http://webneel.com/wallpaper/sites/default/files/images/08-2013/9-starfish-sea-beach-sand-wallpaper.jpg');
+	  }
+	  
+	  .container {
+		
+		  max-width: 1200px;
+		  height: 500px;
+	  }
+	  
+	  .input-style {
+		      color: black;
+    height: 79px;
+    width: 100%;
+    text-indent: 32px;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    border: none;
+	  }
