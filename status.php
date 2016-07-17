@@ -27,7 +27,7 @@ if ($httpcode == "200")  {
 }
 
 else {
- print "<div class=\"statuscode\"><h4>Something is not OK!</h4></div>";
+ print "<div class=\"statuscode\"><h2>Something is not OK!</h2></div>";
 
 }
 
