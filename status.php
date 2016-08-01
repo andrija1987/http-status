@@ -3,7 +3,12 @@
 		text-align: center;
 		margin-top: 300px;
 	}
-
+  body {
+    background: #eee;
+    font: 12px Lucida sans, Arial, Helvetica, sans-serif;
+  	color: #333;
+  	text-align: center;
+  }
 	</style>
 <?php
 ini_set('display_errors', 1);
